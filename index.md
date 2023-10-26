@@ -7,3 +7,9 @@ a = 1
 b = 3
 print(a+b)
 ```
+#### Task List
+- [ ] Task 1
+- [x] Tast 2
+- [ ] Play
+- [ ] Read a book
+- [ ] run a maraton
